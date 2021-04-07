@@ -3,19 +3,19 @@
 
 name = "Resto Hugo"
 license = "CC-BY-3.0"
-licenselink = "https://gitlab.com/kskarthik/resto-hugo/blob/master/LICENSE.md"
+licenselink = ""
 description = "Port of Resto Theme by freehtml5.co to hugo"
-homepage = "https://gitlab.com/kskarthik/resto-hugo"
+homepage = ""
 tags = ["business","single page","blog","minimal", "clean"]
 features = ["blog", "Clean and minimal", "Responsive", "Social media links", "Syntax highlighting", "business"]
 min_version = "0.41"
 
 [author]
   name = "Karthik"
-  homepage = "https://kskarthik.gitlab.io"
+  homepage = ""
 
 # If porting an existing theme
 [original]
   name = "Resto"
-  homepage = "https://freehtml5.co/resto-free-responsive-bootstrap-4-template-for-restaurants/"
+  homepage = ""
   
