@@ -1,4 +1,4 @@
-baseURL = "https://mamstr.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "resto-hugo"
 title = "Mamstr"
@@ -7,4 +7,4 @@ copyright = "&copy 2021 Mamstr"
 [params]
 logo = "img/launch_image.png"
 enableDisqus = true
-footerText = "See you on the app soon...."
+footerText = "See you on the app soon...s"
